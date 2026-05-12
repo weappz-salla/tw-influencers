@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "tw-influencers",
+        "en": "tw-influencers"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "info@craffo.com",
+    "support_url": "",
+    "repository": "https://github.com/weappz-salla/tw-influencers",
+    "components": []
+}
